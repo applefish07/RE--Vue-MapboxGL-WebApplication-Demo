@@ -23,8 +23,8 @@ export default {
     const mapContainer = ref(null);
 
     onMounted(() => {
-      mapboxgl.accessToken =
-        "pk.eyJ1IjoieXVhcHBsZTA2MDkiLCJhIjoiY200bmRlMDR1MDY5MDJrczlnYzZ3cmpudiJ9.lXGFmXDJ_aCzGkuBlJDU4Q";
+      const mapboxToken = import.meta.env.VUE_APP_MAPBOX_TOKEN;
+         mapboxgl.accessToken = mapboxToken;
 
       const map = new mapboxgl.Map({
         container: mapContainer.value,

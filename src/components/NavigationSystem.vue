@@ -98,7 +98,7 @@ export default {
       distance: null, 
       time: null, 
       steps: [], 
-      mapboxAccessToken: "pk.eyJ1IjoieXVhcHBsZTA2MDkiLCJhIjoiY200bmRlMDR1MDY5MDJrczlnYzZ3cmpudiJ9.lXGFmXDJ_aCzGkuBlJDU4Q", 
+      mapboxAccessToken: import.meta.env.VUE_APP_MAPBOX_TOKEN,
     };
   },
   mounted() {
