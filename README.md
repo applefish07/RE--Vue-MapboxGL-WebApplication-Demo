@@ -1,4 +1,4 @@
-# Vue Mapbox Three.js Project
+# Vue MapboxGL Project
 
 An interactive map visualization project combining Vue 3, Mapbox GL, and Three.js.
 
