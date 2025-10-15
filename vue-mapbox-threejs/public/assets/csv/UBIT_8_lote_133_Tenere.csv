@@ -1,0 +1,27 @@
+LOCATION,Address,"Plaza de Anton Recio, Calle Tenerife, No 6",
+,Province,La Habana,
+,Municipality,Centro Habana,
+,SIT-PM code,UBIT_8_lote_133_Tenerife,
+PARCEL DATA - BLOCK,UBIT,8,
+,Type,Built,
+,plot (m2),183.08,
+,block (m2),1928.5,
+,Percentage plot/lot,9.50%,
+BUILDING DATA,Style,Eclectic,
+,Floors,1,
+,Occupied area (m2),387.71,
+,Gross floor area (m2),171.92,
+,Height,approx. 10.59m,
+URBAN CHARACTERISTICS OF THE ENVIRONMENT,Property on the left (exiting),"Tenerife, No 10 (1 floor, plot 134)",
+,the right (exiting),"Tenerife, No 4 (2 floor, plot 132)",
+LAND USE,Activity,Residential,
+,Usage,Dwelling,
+TECHNICAL CONDITION AND STRUCTURAL COMPONENTS,Type of structure,Load-bearing walls,
+,Structural components,Wall,Old brick
+,,Deck/intermediate floor,beam and slab
+,,Mezzanine,reinforced concrete
+,Technical condition,Structure,poor
+,,Installations,poor
+,,Waterproofing,poor
+,,Fair Termination,poor
+,Constructive actions,Repair or demolition,

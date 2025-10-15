@@ -1,0 +1,272 @@
+{
+  "users": [
+    {
+      "id": "8e73",
+      "username": "Sofia",
+      "password": "123456"
+    },
+    {
+      "id": "c9b3",
+      "username": "Carmen",
+      "password": "098765"
+    },
+    {
+      "id": "1e0d",
+      "username": "Camila",
+      "password": "234567"
+    },
+    {
+      "id": "8ca5",
+      "username": "Javier",
+      "password": "345678"
+    },
+    {
+      "id": "e966",
+      "username": "Ricardo",
+      "password": "456789"
+    },
+    {
+      "id": "be44",
+      "username": "Manuel",
+      "password": "567890"
+    },
+    {
+      "id": "c635",
+      "username": "Rafael",
+      "password": "678901"
+    }
+  ],
+  "reports": [
+    {
+      "type": "report",
+      "id": "258f",
+      "date": "2025-01-30",
+      "name": "UBIT_1_lot_913 and 909_Manrique",
+      "status": "Bad",
+      "address": "Manrique #913 and 909 between Condesa and FigurasLa",
+      "damagedArea": "Exterior",
+      "damagedPart": "Roof",
+      "specificDamage": "Shingles missing",
+      "material": "Asphalt",
+      "additionalNotes": "Damage due to storm",
+      "photo": "/assets/png/UBIT_1_lote_913 y 909_Manrique.png",
+      "contact": "Sofia,555-1234",
+      "marker": {
+        "lng": -82.3654518127811,
+        "lat": 23.128745031757475
+      },
+      "userId": "8e73"
+    },
+    {
+      "type": "report",
+      "id": "6161",
+      "date": "2025-01-22",
+      "name": "UBIT_1_lot_18_Antón Recio",
+      "status": "Bad",
+      "address": "Antón Recio #18 between Condesa and Tenerife",
+      "damagedArea": "Interior",
+      "damagedPart": "Wall",
+      "specificDamage": "Crack in drywall",
+      "material": "Plaster",
+      "additionalNotes": "Possibly structural",
+      "photo": "/assets/png/UBIT_1_lote_18_Antón Recio.png",
+      "contact": "Carmen,555-3456",
+      "marker": {
+        "lng": -82.36481548157398,
+        "lat": 23.12887682389713
+      },
+      "userId": "c9b3"
+    },
+    {
+      "type": "report",
+      "id": "d357",
+      "date": "2025-02-04",
+      "name": "UBIT_2_lot_3_Peñalver",
+      "status": "Bad",
+      "address": "Peñalver No 3 between Manrique and Antón  Recio",
+      "damagedArea": "Exterior",
+      "damagedPart": "Door",
+      "specificDamage": "Scratches and dents",
+      "material": "Metal",
+      "additionalNotes": "Likely from vandalism",
+      "photo": "/assets/png/UBIT_2_lote_3_Peñalver.png",
+      "contact": "Camila,555-6666",
+      "marker": {
+        "lng": -82.36509969122444,
+        "lat": 23.12936497639383
+      },
+      "userId": "1e0d"
+    },
+    {
+      "type": "report",
+      "id": "865f",
+      "date": "2025-01-24",
+      "name": "UBIT_3_lot_7_Antón Recio",
+      "status": "Bad",
+      "address": "Antón Recio No 7 between Peñalver and  Reunión",
+      "damagedArea": "Interior",
+      "damagedPart": "Floor",
+      "specificDamage": "Tiles cracked",
+      "material": "Ceramic",
+      "additionalNotes": "Occurs in high-traffic area",
+      "photo": "/assets/png/UBIT_3_lote_7_Antón Recio.png",
+      "contact": "Javier,555-765",
+      "marker": {
+        "lng": -82.3647948372132,
+        "lat": 23.129349401396027
+      },
+      "userId": "8ca5"
+    },
+    {
+      "type": "report",
+      "id": "8243",
+      "date": "2025-01-26",
+      "name": "UBIT_4_lot_55d_San Nicolas",
+      "status": "Bad",
+      "address": "Plaza de Anton Recio, Calle San Nicolas, No 833La",
+      "damagedArea": "Exterior",
+      "damagedPart": "Balcony",
+      "specificDamage": "Rusted railing",
+      "material": "Steel",
+      "additionalNotes": "Requires immediate attention",
+      "photo": "/assets/png/UBIT_4_lote_55d_San Nicolas.png",
+      "contact": "Ricado,555-098",
+      "marker": {
+        "lng": -82.36396639259438,
+        "lat": 23.129499328491647
+      },
+      "userId": "e966"
+    },
+    {
+      "type": "report",
+      "id": "fa8e",
+      "date": "2025-02-08",
+      "name": "UBIT_7 lote_19 Anton Recio",
+      "status": "Bad",
+      "address": "Plaza de Anton Recio, Esquina de Tenerife y Anton Recio, No 52La",
+      "damagedArea": "Interior",
+      "damagedPart": "Window",
+      "specificDamage": "Broken glass",
+      "material": "Glass",
+      "additionalNotes": "Safety hazard",
+      "photo": "/assets/png/UBIT_7 lote_19 Anton Recio.png",
+      "contact": "Manuel,555-999",
+      "marker": {
+        "lng": -82.36462213556922,
+        "lat": 23.12870883710586
+      },
+      "userId": "be44"
+    },
+    {
+      "type": "report",
+      "id": "481d",
+      "date": "2025-02-09",
+      "name": "UBIT_8_lote_133_Tenerife",
+      "status": "Bad",
+      "address": "Anton Recio Square, Tenerife Street, No. 6",
+      "damagedArea": "Exterior",
+      "damagedPart": "Wall",
+      "specificDamage": "Paint peeling",
+      "material": "Concrete",
+      "additionalNotes": "Repaint recommended",
+      "photo": "/assets/png/UBIT_8_lote_133_Tenere.png",
+      "contact": "Rafael,555-873",
+      "marker": {
+        "lng": -82.36418924609914,
+        "lat": 23.129019276715667
+      },
+      "userId": "c635"
+    },
+    {
+      "id": "7373",
+      "date": "2025-02-09",
+      "name": "UBIT_3_lote_24_Penalver",
+      "status": "Bad",
+      "address": "Penalver No.24",
+      "damagedArea": "Exterior",
+      "damagedPart": "Door",
+      "specificDamage": "Hinge broken",
+      "material": "Wood",
+      "additionalNotes": "Hard to close properly",
+      "photo": "/assets/png/UBIT_3_lote_24_Peñalver.png",
+      "contact": "Diana,555-777",
+      "marker": {
+        "lng": -82.36541173047041,
+        "lat": 23.129539100044965
+      },
+      "userId": "7d31"
+    },
+    {
+      "id": "d357",
+      "type": "report",
+      "date": "2025-02-04",
+      "name": "UBIT_2_lot_3_Peñalver",
+      "status": "Good",
+      "address": "Peñalver No 3 between Manrique and Antón  Recio",
+      "damagedArea": "Exterior",
+      "damagedPart": "Door",
+      "specificDamage": "Scratches and dents",
+      "material": "Metal",
+      "additionalNotes": "Likely from vandalism",
+      "photo": "/assets/png/UBIT_2_lote_3_Peñalver.png",
+      "contact": "Camila,555-6666",
+      "marker": {
+        "lng": -82.36509969122444,
+        "lat": 23.12936497639383
+      },
+      "userId": "1e0d",
+      "isMarkerExternallyUpdated": true
+    }
+  ],
+  "markers": [
+    {
+      "type": "marker",
+      "name": "UBIT_1_lot_913 and 909_Manrique",
+      "lng": -82.3654518127811,
+      "lat": 23.128745031757475,
+      "csvPath": "/assets/csv/UBIT_1_lot_913 and 909_Manrique.csv"
+    },
+    {
+      "type": "marker",
+      "name": "UBIT_1_lote_18_Antón Recio",
+      "lng":  -82.36481548157398,
+      "lat": 23.12887682389713,
+      "csvPath": "/assets/csv/UBIT_1_lote_18_Antón Recio.csv"
+    },
+    {
+      "type": "marker",
+      "name": "UBIT_2_lote_3_Peñalver",
+      "lng": -82.36509969122444,
+      "lat": 23.12936497639383,
+      "csvPath": "assets/csv/UBIT_2_lote_3_Peñalver.csv"
+    },
+    {
+      "type": "marker",
+      "name": "UBIT_3_lote_7_Antón Recio",
+      "lng": -82.3647948372132,
+      "lat": 23.129349401396027,
+      "csvPath": "/assets/csv/UBIT_3_lote_7_Antón Recio.csv"
+    },
+    {
+      "type": "marker",
+      "name": "UBIT_4_lote_55d_San Nicolas",
+      "lng": -82.36396639259438,
+      "lat": 23.129499328491647,
+      "csvPath": "/assets/csv/UBIT_4_lote_55d_San Nicolas.csv"
+    },
+    {
+      "type": "marker",
+      "name": "UBIT_7 lote_19 Anton Recio",
+      "lng": -82.36462213556922,
+      "lat": 23.12870883710586,
+      "csvPath": "/assets/csv/UBIT_7 lote_19 Anton Recio.csv"
+    },
+    {
+      "type": "marker",
+      "name": "UBIT_8_lote_133_Tenere",
+      "lng": -82.36418924609914,
+      "lat": 23.129019276715667,
+      "csvPath": "/assets/csv/UBIT_8_lote_133_Tenere.csv"
+    }
+  ]
+}
